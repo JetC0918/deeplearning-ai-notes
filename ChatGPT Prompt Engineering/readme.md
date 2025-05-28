@@ -35,12 +35,12 @@ Click to open each notebook:
 
 ---
 
-## 🧭 Navigation
+🧑‍🏫 **Principles for Effective Prompting**
+* **Clarity is Essential:** Instructions provided to the LLM should be highly specific and unambiguous.
+* **Context & Tone:** It is important to specify the desired focus, the intended output style (e.g., journalistic, technical, casual), and provide any necessary background context.
+* **Helpful Analogy:** The course suggests instructing an LLM as one would direct a smart assistant who is new to a particular task—clear details are paramount for good performance.
+* **"Time to Think":** This principle involves structuring prompts or sequences of prompts to allow the model to perform more complex reasoning by breaking tasks into simpler steps. (This concept is explored in more detail within the course).
 
-Each subnote in this folder corresponds to a lesson from the course and includes:
-- Sample prompts
-- Reflections on what worked and why
-- Experiments I ran on my own
 
 ---
 
